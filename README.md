@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mdavid508
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html, css , javascript and a php framework(Laravel)
-- 💞️ I’m looking to collaborate on web development projects.
+- 💞️ I’m looking to collaborate on web development projects especially undertaking the front end design of websites.
 - 📫 How to reach me through my email address mugodavid317@gmail.com
 
 <!---
